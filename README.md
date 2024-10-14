@@ -44,12 +44,12 @@ The review period for stage 1 ends on January 15th 2025.
 
 The documentation provided includes:
 
- * A [style guide](https://adobe-type-tools.github.io/feature_file_change_review/Variable_Feature_Style_Guide.md).
+ * A [style guide](https://adobe-type-tools.github.io/feature_file_change_review/Variable_Feature_Style_Guide).
    (This is probably the best place to start.)
  * A [revised specification](https://adobe-type-tools.github.io/feature_file_change_review/OpenTypeFeatureFileSpecification_diff.html) marked
    with the differences from the previous version.
  * An annotated ANTLR 4 format [grammar](https://adobe-type-tools.github.io/feature_file_change_review/Grammar_Diff.html).
- * A short list of [ideas that were rejected](https://adobe-type-tools.github.io/feature_file_change_review/rejected_ideas.md).
+ * A short list of [ideas that were rejected](https://adobe-type-tools.github.io/feature_file_change_review/rejected_ideas).
 
 In addition to this documentation we are providing an [example
 repository](https://github.com/adobe-fonts/vffirst-source-serif) with
