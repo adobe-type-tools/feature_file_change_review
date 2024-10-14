@@ -33,9 +33,9 @@ answer questions about our choices, and if necessary to make adjustments to the
 specification so that it is adopted as widely as possible.
 
 Adobe is now accepting comments on the stage 1 work via this GitHub repository.
-Start a [Discussion](/adobe-type-tools/feature_file_change_review/discussions)
+Start a [Discussion](https://github.com/adobe-type-tools/feature_file_change_review/discussions)
 about whatever you would like to clarify, or add an
-[Issue](/adobe-type-tools/feature_file_change_review/issues) to raise the
+[Issue](https://github.com/adobe-type-tools/feature_file_change_review/issues) to raise the
 possibility of adding to or changing the specification. (As always, it is
 good practice to look through the lists of existing discussions and
 issues to avoid duplication.)
